@@ -2,6 +2,7 @@
 body{
 	margin:0px;
 	font-family: arial, sans-serif;
+	color: #505050;
 }
 
 header{
@@ -59,7 +60,6 @@ header{
 	width: 70%;
 	height: 100%;
 	background-color: #FEFEFE;
-	opacity: 0.7;
 	text-align: justify;
 
 }
@@ -74,4 +74,25 @@ footer{
 	display:block;
 	color:#fff;
 	font-family:arial;
+}
+
+.link{
+	text-decoration:none;
+	display:block;
+	color: #505050;
+	font-family:arial;
+}
+
+.link:hover{
+	color: grey;
+}
+
+.photo{
+	text-align: center;
+}
+
+.legend{
+	text-align: center;
+	color: gray;
+	font-style: italic;
 }
