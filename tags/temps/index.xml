@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>temps on L&#39;eau là</title>
+    <link>https://example.com/tags/temps/</link>
+    <description>Recent content in temps on L&#39;eau là</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/temps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les tueurs de temps</title>
+      <link>https://example.com/p/les-tueurs-de-temps/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/les-tueurs-de-temps/</guid>
+      <description>L&amp;rsquo;inexplicable faculté de vivre Aujourd&amp;rsquo;hui, en France et dans de nombreux autres États, rares sont les personnes en proie à la survie, la &amp;ldquo;vraie&amp;rdquo;, celle où tout l&amp;rsquo;énergie de notre être est poussée par la quête de nourriture, d&amp;rsquo;abri, du minimum de confort. Il reste, pour la plupart des gens - dont moi -, la vie et avec elle ses interminables questions (de privilégiés ?) qui bouleversent à un moment ou un autre nos esprits:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on L&#39;eau là</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on L&#39;eau là</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chine</title>
+      <link>https://example.com/tags/chine/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/chine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enquête</title>
+      <link>https://example.com/tags/enqu%C3%AAte/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/enqu%C3%AAte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morin</title>
+      <link>https://example.com/tags/morin/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/morin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophie</title>
+      <link>https://example.com/tags/philosophie/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/philosophie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vivre en action</title>
+      <link>https://example.com/tags/vivre-en-action/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/vivre-en-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temps</title>
+      <link>https://example.com/tags/temps/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/temps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>progrès</title>
+      <link>https://example.com/tags/progr%C3%A8s/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/progr%C3%A8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technique</title>
+      <link>https://example.com/tags/technique/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/technique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

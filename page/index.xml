@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on L&#39;eau là</title>
+    <link>https://example.com/page/</link>
+    <description>Recent content in Pages on L&#39;eau là</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://example.com/%C3%A0-propos/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%C3%A0-propos/</guid>
+      <description>L&amp;rsquo;eau là - Hydratez-vous 🌊 Porter un regard sur le monde  Baroudeuse diplômée autostop 🤸‍♀️ Apprentie artisto-philosophe 🎨 Ingénieure informatique 💻 Professeur et praticienne de yoga 🧘‍♀️ Enseignante de technologie et d&amp;rsquo;informatique 👩‍🏫  Juste l&amp;rsquo;envie de partager, de laisser couler mes pensées comme de l&amp;rsquo;eau dans la toile du grand tout. À prendre - apprendre - ou à laisser.
+“Voyager c&amp;rsquo;est se quitter soi même, changer de peau en même temps que d&amp;rsquo;horizon, renoncer à la part immobile qui nous leste et nous enchaîne à nos habitudes, nos conventions, nos paresses et à la pierre lourde de nos pesanteurs” -Daniel Rondeau</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recherche</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
