@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on L&#39;eau là</title>
+    <title>Catégories on L&#39;eau là</title>
     <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on L&#39;eau là</description>
+    <description>Recent content in Catégories on L&#39;eau là</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réflexion</title>
+      <link>https://example.com/categories/r%C3%A9flexion/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/r%C3%A9flexion/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Voyage</title>
       <link>https://example.com/categories/voyage/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/categories/voyage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Réflexion</title>
-      <link>https://example.com/categories/r%C3%A9flexion/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/categories/r%C3%A9flexion/</guid>
       <description></description>
     </item>
     
