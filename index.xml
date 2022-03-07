@@ -6,7 +6,81 @@
         <description>Recent content on L&#39;eau là</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Désacralisation de l&#39;ordinateur</title>
+        <link>https://example.com/p/d%C3%A9sacralisation-de-lordinateur/</link>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/d%C3%A9sacralisation-de-lordinateur/</guid>
+        <description>&lt;img src="https://example.com/p/d%C3%A9sacralisation-de-lordinateur/codebinaire.jpg" alt="Featured image of post Désacralisation de l&#39;ordinateur" /&gt;&lt;p&gt;&lt;em&gt;Petite explication technique à l&amp;rsquo;usage de vos grands-parents, vos enfants, votre conjoint, vous même ou votre voisin qui dit sacrément n&amp;rsquo;importe quoi&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-réellement-un-ordinateur-&#34;&gt;Qu&amp;rsquo;est ce que réellement un ordinateur ?&lt;/h2&gt;
+&lt;p&gt;Définition classique:
+Un ordinateur est un système de traitement de l&amp;rsquo;information programmable. (sur Wikipédia par exemple: &lt;a class=&#34;link&#34; href=&#34;https://fr.wikipedia.org/wiki/Ordinateur&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://fr.wikipedia.org/wiki/Ordinateur&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUI MERCI, MAIS QU&amp;rsquo;EST CE QUE C&amp;rsquo;EST???&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;une-machine-qui-exécute&#34;&gt;Une machine qui exécute&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;ordinateur est tout simplement une machine technique dont la fonction est de résoudre des opérations logiques et mathématiques, exécuter des programmes.&lt;/p&gt;
+&lt;p&gt;Par exemple: ouvrir un logiciel de texte, de graphisme, de calcul; faire fonctionner un jeu vidéo, permettre d&amp;rsquo;écouter de la musique, de regarder une vidéo&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;une-machine-qui-communique&#34;&gt;Une machine qui communique&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;autre fonction principale de l&amp;rsquo;ordinateur est de communiquer avec d’autres ordinateurs et d&amp;rsquo;autres machines.&lt;/p&gt;
+&lt;p&gt;Pour qu&amp;rsquo;un ordinateur communique avec d&amp;rsquo;autres ordinateurs il suffit qu&amp;rsquo;il y soit connecté grâce à ce qu&amp;rsquo;on appelle un &lt;strong&gt;réseau&lt;/strong&gt;; notamment au réseau mondial: &lt;strong&gt;internet&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Par exemple: envoyer un mail, aller sur des réseaux sociaux, consulter un blog, un site, un forum&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Pour qu&amp;rsquo;un ordinateur communique avec d&amp;rsquo;autres machines il faut aussi que celles-ci soit  connectées au réseau.&lt;/p&gt;
+&lt;p&gt;Par exemple: une imprimante peut être connectée à votre ordinateur en &lt;strong&gt;réseau sans fil&lt;/strong&gt; (via la wifi ou le bluetooth qui sont des moyens de connexion à un réseau) ou en réseau filaire (simplement branchée à l&amp;rsquo;ordinateur).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;L&amp;rsquo;ordinateur est juste une machine capable de faire plein d&amp;rsquo;opérations, d’exécuter des tâches et de communiquer avec d&amp;rsquo;autres machines en envoyant des signaux.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;comment-il-fonctionne--globalement-hein&#34;&gt;Comment il fonctionne ? (globalement hein)&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;ordinateur est une machine électrique qui fait des actions et qui stocke ces résultats en mémoire: les ordres reçus (appui sur un touche de clavier, ouverture d&amp;rsquo;un document, clique de souris &amp;hellip;), les résultats de ces ordres et aussi des fichiers (documents, vidéos, logiciels &amp;hellip;)&lt;br&gt;
+Sa mémoire, si on l&amp;rsquo;écrivait, ressemblerait a peu près à ça:&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 177; 
+			flex-basis: 426px&#34;
+	&gt;
+	&lt;a href=&#34;https://example.com/p/d%C3%A9sacralisation-de-lordinateur/codebinaire.jpg&#34; data-size=&#34;1920x1080&#34;&gt;
+		&lt;img src=&#34;https://example.com/p/d%C3%A9sacralisation-de-lordinateur/codebinaire.jpg&#34;
+			width=&#34;1920&#34;
+			height=&#34;1080&#34;
+			srcset=&#34;https://example.com/p/d%C3%A9sacralisation-de-lordinateur/codebinaire_hu753b99e18b1250f9899ae31d63c2a29e_251013_480x0_resize_q75_box.jpg 480w, https://example.com/p/d%C3%A9sacralisation-de-lordinateur/codebinaire_hu753b99e18b1250f9899ae31d63c2a29e_251013_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			&gt;
+	&lt;/a&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Pourquoi donc? Et bien l&amp;rsquo;ordinateur est une machine comme les autres et n&amp;rsquo;a pas la capacité de comprendre, de connaître ou de retenir le chiffre « 5 », le nombre « 42 », le mot « pomme ». Par contre c&amp;rsquo;est une machine électrique qui peut &amp;ldquo;savoir&amp;rdquo; si du courant passe par ses circuits ou non!&lt;/p&gt;
+&lt;p&gt;La mémoire de l&amp;rsquo;ordinateur, tout comme son cerveau: le &lt;strong&gt;processeur&lt;/strong&gt;, sont composés de millions de transistors.
+Ce sont comme des petits interrupteurs qui sont:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;soit allumé -&amp;gt; du courant passe -&amp;gt; 1&lt;/li&gt;
+&lt;li&gt;soit éteint -&amp;gt; le courant ne passe pas -&amp;gt; 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Quand l&amp;rsquo;interrupteur est allumé, la valeur de l&amp;rsquo;interrupteur vaut 1 et quand il est éteint la valeur est 0.&lt;/strong&gt; Voilà d&amp;rsquo;où viennent ces fameux &amp;ldquo;0&amp;rdquo; et &amp;ldquo;1&amp;rdquo; ! C&amp;rsquo;est ce qu&amp;rsquo;on appelle le &lt;strong&gt;code binaire&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Pour créer de l&amp;rsquo;information plus complexe on va faire des groupes de 0 et de 1, par exemple un groupe de 8 que l&amp;rsquo;on va appeler &lt;strong&gt;octet&lt;/strong&gt;, et à chaque combinaison correspondra une information différente.&lt;/p&gt;
+&lt;p&gt;Par exemple:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0000 0000 va valoir 0&lt;/li&gt;
+&lt;li&gt;0000 0001 va valoir 1&lt;/li&gt;
+&lt;li&gt;0000 0010 va valoir 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(correspondance système binaire et système décimal)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ou encore A va valoir 01000001&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(correspondance ASCII)&lt;/p&gt;
+&lt;p&gt;Il suffit juste que créer des standards communs à tous les ordinateurs pour que tous sachent que A = 01000001.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le binaire peut former des informations&lt;/strong&gt; qui sont consignées dans la mémoire de l&amp;rsquo;ordinateur, par exemple: un fichier enregistré sur votre Bureau.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Et il peut aussi correspondre à des instructions&lt;/strong&gt; que l&amp;rsquo;ordinateur va exécuter, par exemple: copier un fichier de votre Bureau à vos documents.&lt;/p&gt;
+&lt;p&gt;Tout ce que vous voyez sur votre ordinateur, votre tablette et votre téléphone sont juste la somme de millions de 0 et de 1 mis bout à bout!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;L&amp;rsquo;ordinateur fonctionne via des courants électriques symbolisés par des 0 (pas de courant) ou des 1 (courant) qui regroupés &amp;ldquo;codent&amp;rdquo; des informations plus complexes.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Maintenant à votre tour d&amp;rsquo;expliquer ce qu&amp;rsquo;est un ordinateur et comment il fonctionne à votre entourage!&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Causalité et finalité</title>
         <link>https://example.com/p/causalit%C3%A9-et-finalit%C3%A9/</link>
         <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
