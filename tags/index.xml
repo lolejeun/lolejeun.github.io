@@ -6,7 +6,25 @@
     <description>Recent content in Tags on L&#39;eau là</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morin</title>
+      <link>https://example.com/tags/morin/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/morin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophie</title>
+      <link>https://example.com/tags/philosophie/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/philosophie/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>lecture</title>
       <link>https://example.com/tags/lecture/</link>
@@ -40,24 +58,6 @@
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/enqu%C3%AAte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morin</title>
-      <link>https://example.com/tags/morin/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/morin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophie</title>
-      <link>https://example.com/tags/philosophie/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/philosophie/</guid>
       <description></description>
     </item>
     
