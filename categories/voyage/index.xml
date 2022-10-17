@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Voyage on L&#39;eau là</title>
+    <title>Voyage on Lola Lejeune - L&#39;eau là</title>
     <link>https://example.com/categories/voyage/</link>
-    <description>Recent content in Voyage on L&#39;eau là</description>
+    <description>Recent content in Voyage on Lola Lejeune - L&#39;eau là</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/voyage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/voyage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une première semaine au Kenya</title>
+      <link>https://example.com/p/une-premi%C3%A8re-semaine-au-kenya/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/une-premi%C3%A8re-semaine-au-kenya/</guid>
+      <description>Si vous prévoyez vous même de partir au Kenya pour y vagabonder ou y vivre, préparez vous un minimum mentalement à la différence des niveaux de vie et surtout, entraînez vous à négocier.
+Alan, mon amour, va être assistant de langue française à la Technical University of Kenya (TUK) de novembre à mai, et comme je l&amp;rsquo;aime, j&amp;rsquo;ai décidé de le suivre pour cette année dépaysante, qui sera certainement aussi folle et extravagante.</description>
+    </item>
+    
     <item>
       <title>Shanghai : La décadence derrière les dorures et craquelures d’une vie nocturne opulente</title>
       <link>https://example.com/p/shanghai-la-d%C3%A9cadence-derri%C3%A8re-les-dorures-et-craquelures-dune-vie-nocturne-opulente/</link>
