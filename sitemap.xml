@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/p/7-milliards-de-suspects-visionnage-%C3%A0-nairobi/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/kenya/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/progr%C3%A8s/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/r%C3%A9flexion/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/technique/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/un-premier-mois-au-kenya/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
@@ -27,12 +39,6 @@
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/d%C3%A9sacralisation-de-lordinateur/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/r%C3%A9flexion/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/technique/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/causalit%C3%A9-et-finalit%C3%A9/</loc>
@@ -85,9 +91,6 @@
   </url><url>
     <loc>https://example.com/tags/temps/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/progr%C3%A8s/</loc>
-    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/serons-nous-toujours-des-vieux-cons/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
