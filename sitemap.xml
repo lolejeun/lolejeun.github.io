@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/p/7-milliards-de-suspects-visionnage-%C3%A0-nairobi/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/avis/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/kenya/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/lacs-naivasha-et-nakuru-matatu/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/voyage/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/7-milliards-de-suspects-visionnage-%C3%A0-nairobi/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/progr%C3%A8s/</loc>
@@ -23,16 +35,10 @@
     <loc>https://example.com/categories/r%C3%A9flexion/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/technique/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/un-premier-mois-au-kenya/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/voyage/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/une-premi%C3%A8re-semaine-au-kenya/</loc>
