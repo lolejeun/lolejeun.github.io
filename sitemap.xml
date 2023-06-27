@@ -2,32 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/p/amboseli/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/avis/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/kenya/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/voyage/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/sur-les-pentes-du-kilimandjaro/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/tanzanie/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/voyage/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/kenya/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/lacs-naivasha-et-nakuru-matatu/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
