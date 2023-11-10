@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enseignement on Lola Lejeune - L&#39;eau là</title>
+    <link>https://example.com/tags/enseignement/</link>
+    <description>Recent content in Enseignement on Lola Lejeune - L&#39;eau là</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/enseignement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enseigner avec bienveillance</title>
+      <link>https://example.com/p/enseigner-avec-bienveillance/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/p/enseigner-avec-bienveillance/</guid>
+      <description>Dans le cadre de la formation continue d&amp;rsquo;enseignant, je lis des livres en lien avec la pédagogie, neurologie, sociologie. J&amp;rsquo;ai commencé avec ce livre de Rosenberg: Enseigner avec bienveillance, instaurer une entente mutuelle entre élèves et enseignants, 2006.
+Contexte Marshall B. Rosenberg est un psychologue américain. Il est le créateur d&amp;rsquo;un processus de communication appelé « communication non violente » (CNV). Il a travaillé dans le monde entier en tant que faiseur de paix ainsi que comme directeur pédagogique du « Centre pour la Communication Nonviolente » (Center for Nonviolent Communication).</description>
+    </item>
+  </channel>
+</rss>

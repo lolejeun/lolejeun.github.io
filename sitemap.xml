@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/tags/avis/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%C3%A9gypte/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/enseignement/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/enseigner-avec-bienveillance/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/r%C3%A9flexion/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%C3%A9gypte/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/un-petit-tour-en-%C3%A9gypte/</loc>
@@ -45,9 +54,6 @@
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/progr%C3%A8s/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/r%C3%A9flexion/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/technique/</loc>
