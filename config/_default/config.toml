@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://lolejeun.github.io/pause"
+baseurl = "https://lolejeun.github.io"
 languageCode = "en-us"
 title = "Lola Lejeune"
 
