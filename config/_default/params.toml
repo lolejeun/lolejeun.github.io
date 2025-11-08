@@ -19,7 +19,7 @@ subtitle = "Méditer chaque jour 🧘‍♀️ Marcher, Oser, Contempler🎐 Viv
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/profileMINI.jpeg"
+src = "/img/IMG-20250630-WA0043~2.jpg"
 
 [article]
 headingAnchor = false
