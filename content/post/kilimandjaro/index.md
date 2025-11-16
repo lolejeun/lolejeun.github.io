@@ -129,7 +129,7 @@ On l'a fait! on y est arrivé! 6 longues heures de marche (5h30 précisément) j
 
 Petit retour en arrière sur cette nuit de marche:
 
-Debout au dehors avec un thé chaud, j’attends Henri et Jo en contemplant le ciel. Sa splendeur conne de l'énergie. Jo verra même une étoile filante. Le début de l'ascension est pentu mais il ne fait pas encore froid. Puis, petit à petit, la neige apparaît et s'accroche à nos chaussures. Nos pieds commencent à devenir froid malgré la marche. Pour moi, les mains ça va mais pour Jo c'est mister freeeze au point d'abandonner l'idée de marcher avec les bâtons de marche. Bâtons qui ont été une découverte et une bénédiction pour moi tout au long du trajet. Henri, no need, il aura emprunté (et surtout porté) des bâtons depuis Moshi pour rien.
+Debout au dehors avec un thé chaud, j’attends Henri et Jo en contemplant le ciel. Sa splendeur donne de l'énergie. Jo verra même une étoile filante. Le début de l'ascension est pentu mais il ne fait pas encore froid. Puis, petit à petit, la neige apparaît et s'accroche à nos chaussures. Nos pieds commencent à devenir froid malgré la marche. Pour moi, les mains ça va mais pour Jo c'est mister freeeze au point d'abandonner l'idée de marcher avec les bâtons de marche. Bâtons qui ont été une découverte et une bénédiction pour moi tout au long du trajet. Henri, no need, il aura emprunté (et surtout porté) des bâtons depuis Moshi pour rien.
 
 Nous avons un très bon rythme (pour des gens marchant à 5000m) et nous doublons quantité de groupes partis avant nous. Petit plaisir pour l'ego et le moral, et aussi pour notre chaleur corporelle qui reste plutôt constante grâce à l'effort. Nous ne faisons presque pas de pauses afin de ne pas s'endormir ou refroidir.
 

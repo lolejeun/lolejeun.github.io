@@ -1,9 +1,9 @@
 ---
 author: "Leau'là"
-title: "Dans la région de l'Everest - la confiance en soi"
+title: "Népal : dans la région de l'Everest - la confiance en soi"
 date: 2025-11-10
 draft: true
-description: "Baroudage en solitaire dans la région de l'Everest : Le camp de base, kala pathar, Gokyo et Chola pass. Une parenthèse de voyage intérieur et extérieur à la lumière d'une flamme nouvelle : la confiance en soi. Récit de voyage pour donner l'envie de bouger ses lignes. Un souhait de résonance : qu'à travers les pas de tous, chacun puisse trouver sa route. "
+description: "Baroudage en solitaire dans la région de l'Everest : Le camp de base, Kala Pathar, Gokyo et Chola pass. Une parenthèse de voyage intérieur et extérieur à la lumière d'une flamme nouvelle : la confiance en soi. Récit de voyage pour donner l'envie de bouger ses lignes. Un souhait de résonance : qu'à travers les pas de tous, chacun puisse trouver sa route. "
 categories: [
     "Voyage"
 ]
@@ -12,35 +12,35 @@ tags: [
     "Avis",
     "Spiritualité"
 ]
-image: ""
+image: "khunde_peak_PANO.jpg"
 ---
 
 > _Qu'à travers les pas de tous, chacun puisse trouver sa route._
 
 Je ne vous conseillerai pas de faire les même étapes que moi. J'ai bénéficié d'une acclimatation a l'altitude plutôt extraordinaire que je ne peux expliquer que par les raisons suivantes:
-- Les jours précédents le trek, je parlais a mon corps pour lui dire que nous allions monter très haut. Que ça allait être magnifique et challengeant, qu'il fallait se préparer. Une sorte de visualisation. C'est Emma, une rencontre sur le chemin qui m'a donné ce mot qui est très juste. (Je connaissais le concept, je n'avais pas fait le lien)
+- Les jours précédents le trek, je parlais a mon corps pour lui dire que nous allions monter très haut. Que ça allait être magnifique et challengeant, qu'il fallait se préparer. Une sorte de visualisation. C'est Emma, une rencontre sur le chemin qui m'a donné ce mot qui est très juste. (Je connaissais le concept, je n'avais pas fait le lien). Je ne pourrais pas dire pourquoi mais je savais intimement que l'altitude ne serait pas un problème.
 - Chaque jour de mon périple j'ai médité le matin et le soir pour demander aux montagnes de me laisser passer et pour les remercier de l'avoir fait.
 - Aussi souvent que ma condition humaine me le permettait, je marchais de manière consciente, écoutant ma respiration et le rythme de mon cœur. Je crois que le yoga comme art de vivre a aussi beaucoup aidé.
 
 ## Premier et deuxième jour au Népal : départ de Katmandou
 
-Je pars de Katmandou laissant derrière moi une personne chère. Mon cœur est lourd et léger. Lourd de la clôture d'une relation, du manque et d'une pointe d'appréhension de partir finalement seule; léger de ce magnifique voyage qui me tend les bras, d'un le sentiment de justesse que je n'explique pas.
+Je pars de Katmandou laissant derrière moi une personne chère. Mon cœur est lourd et léger. Lourd de la clôture d'une relation, du manque et d'une pointe d'appréhension de partir finalement seule; léger de ce magnifique voyage qui me tend les bras, d'un sentiment de justesse que je n'explique pas.
 
-Je suis stoïque dans la jeep qui m'emmène vers la région de l'Everest. Je me sens dans un demi mirage. Il est 4h du matin. 18h de voyage de prévu. La jeep de 9 places se remplie peu à peu. Nous sommes 12 au final. Quatre a l'arrière : moi serrée à la fenêtre avec 3 Nepalis; une famille de 5 au milieu, une brésilienne, Talita, que j'apprendrai à connaître, un népalais et le chauffeur a l'avant.
+Je suis stoïque dans la jeep qui m'emmène vers la région de l'Everest. Je me sens dans un demi mirage. Il est 4h du matin. 18h de voyage de prévu. La jeep de 9 places se remplit peu à peu. Nous sommes 12 au final. Quatre à l'arrière : moi serrée à la fenêtre avec 3 Nepalis; une famille de 5 au milieu, une brésilienne, Talita, que j'apprendrai à connaître, un népalais et le chauffeur à l'avant.
 
 Je regarde les premières lueurs. Les montagnes sont tellement lointaines qu'on les aperçoit à peine. Le soleil rougeoyant sort a l'horizon. Partout des rizières avec des petites maisons aux toits de tôles. C'est bizarre mais je me sens chez moi. L'atmosphère, l'humidité, la chaleur, l'odeur de poussière légère, tout m'est familier.
 
-L'ouverture de la fenêtre me rentre régulièrement dans l'épaule. Le Nepali a ma droite me donne un gros bonnet pour caler mon bras  et me fait signe que je peux dormir sur lui si je veux. Tout le monde dors sur tout le monde dans la jeep. Les heures filent.
+Le loquet de la fenêtre me rentre régulièrement dans l'épaule. Le Nepali a ma droite me donne un gros bonnet pour caler mon bras  et me fait signe que je peux dormir sur lui si je veux. Tout le monde dors sur tout le monde dans la jeep. Les heures filent.
 
-Nous nous arrêtons manger dans un bouiboui. Les Nepalis m'offrent mon repas. Ils me tendent une fourchette mais je préfère manger à la main comme eux. Ils m'expliquent en rigolant par geste.
+Nous nous arrêtons manger dans un boui-boui. Les Nepalis m'offrent mon repas. Ils me tendent une fourchette mais je préfère manger à la main comme eux. Ils m'expliquent en rigolant par geste.
 
-Nous roulons encore et encore jusque Salleri. Là la route change, plus chaotique. Je dis au revoir aux Nepalis et je monte dans une autre jeep avec Talita. Cette fois ci il n'y a que de futurs randonneurs en herbe (ou aguerris) dans la voiture. Nous nous arrêtons au milieu de la nuit et nous dormons dans un petit lodge. Des petites chambres de 3 mètres sur 3, une planche avec un matelas sommaire contre chaque mur. J'adore, je n'ai besoin de rien de plus. Je partage ma chambre avec Talita pour diviser les frais. L'occasion d'apprendre un peu plus à se connaître.
+Nous roulons encore et encore jusque Salleri. Là, la route change, plus chaotique. Je dis au revoir aux Nepalis et je monte dans une autre jeep avec Talita. Cette fois ci il n'y a que de futurs randonneurs en herbe (ou aguerris) dans la voiture. Nous nous arrêtons au milieu de la nuit et nous dormons dans un petit lodge. Des petites chambres de 3 mètres sur 3, une planche avec un matelas sommaire contre chaque mur. J'adore, je n'ai besoin de rien de plus. Je partage ma chambre avec Talita pour diviser les frais. L'occasion d'apprendre un peu plus à se connaître.
 
-Le périple reprend dès 6h. La jeep gravi les montagnes sur des routes de terre puis les descends pour passer d'une vallée à l'autre. Au loin nous apercevons enfin Surke, notre destination, et au dessus Lulka, la ville de départ du trek. La plupart des marcheurs arrivent à Lulka en avion et passent par des agences : ils ont un guide et des porteurs pour leur expéditions. Je n'avais pas envie de ça. Pas un besoin de prouver en portant toute mes affaires, plutôt l'envie de ne pas suivre. Plutôt de me suivre moi.
+Le périple reprend dès 6h. La jeep gravi les montagnes sur des routes de terre puis les descends pour passer d'une vallée à l'autre. Au loin nous apercevons enfin Surke, notre destination, et au dessus Lulka, la ville de départ du trek. La plupart des marcheurs arrivent à Lulka en avion et passent par des agences : ils ont un guide et des porteurs pour leur expéditions. Je n'avais pas envie de ça. Pas un besoin de prouver en portant toutes mes affaires, plutôt l'envie de ne pas suivre. De me suivre moi.
 
 C'est la première fois que je pars marcher seule. Lorsque je m’en suis rendue compte, car ce n'était pas initialement prévu, j'ai eu un tiraillement de peur. Je dis toujours que je préfère voyager avec l'autre par envie de partager. En réalité, danse avec cette envie la peur de la responsabilité entière de mes pas, l'envie de déléguer à l'autre le cap, le besoin de s'accrocher à une autre vie, une autre flamme. Pour apprendre, réapprendre, à partager, il faut apprendre la solitude. La solitude qui est, pour moi, une porte vers la confiance en soi : la responsabilité de choisir une voie.
 
-À 10 heures, nous arrivons à Surke. Je dis au revoir à Talita, elle me dit que nous nous reverrons. Je commence à marcher.
+À 10 heures, nous arrivons à Surke. Je dis au revoir à Talita. Elle me dit que nous nous reverrons. Je commence à marcher.
 
 _Trajet Katmandou - Salleri : 2000 rps environ 8 heures, trajet Salleri - Surke : 3000 rps environ 8 heures. Possibilité de demander une jeep via son hôtel mais souvent ils prennent des commissions. Je peux vous transmettre des numéros de téléphone pour passer en direct.
 Chambre vers Salleri 500 rps, possibilité de partager la chambre pour payer la moitié. Repas riz / pâtes autour de 400 rps_
@@ -51,7 +51,7 @@ Chambre vers Salleri 500 rps, possibilité de partager la chambre pour payer la 
 > - une veste soft-shell (polaire épaisse), une veste hard-shell (imperméable léger), une doudoune très chaude
 > - une paire de chaussette jour et une nuit, 3 sous vêtements
 > - un drap en soie, cache cou, bonnet, gants
-> - lampe frontale, chargeur, téléphone, écouteurs, passeports, un stylo, un bloc note
+> - lampe frontale, chargeur, téléphone, écouteurs, passeport, un stylo, un bloc note
 > - brosse à dent, dentifrice, un bout de savon, un baume pour les lèvres, beurre de karité, huiles essentielles pour les courbatures
 > - bâtons de marche, quelques snacks, chaussures de trail, sandales de marches (sur-soi)
 
@@ -61,17 +61,17 @@ Je marche vite et doucement. L'envie d'avaler des kilomètres me pousse. Être u
 
 Je traverse plusieurs petits villages de lodges plus ou moins animés. À l'entrée et la sortie de chacun il y a des murs pleins de moulins à prières et des murs de pierres couvertes de mantras. Quelques fois il y a un ou deux enfants qui tentent de me donner une fleur contre quelques billets. Je les esquive avec un sourire, ne sachant comment prendre cette interaction. Pour ce premier jour de marche, je n'ai quasiment pas pris de photos, je remplissais mes yeux et je voulais juste être là : profiter du début de la montagne, des vallées de jungle et de cette douce solitude.
 
-Je regarde les groupes qui marchent. Ils y a ceux qui descendent un peu hébété de fatigue, parfois un demi-sourire de réussite aux lèvres. Il y a des visages fermés et usés, d'autres qui ont trop pris le soleil. L'atmosphère autour d'eux est un peu pesante. Certains sont un peu plus enjoués et plaisantent de leur aventure passée ou à venir. Ceux qui montent sont souvent déjà essoufflés par leur matinée. Quelques uns sont paisibles, beaucoup sur-excités. J'entends des guides conseiller de marcher lentement, raconter des anecdotes sur les premiers sommets, sur la culture tibétaines. L'un me fait rire en expliquant à son client que le mantra " Om Mani Padme Hum" ([mantra de la grande compassion ](https://fr.wikipedia.org/wiki/Om_mani_padme_hum)) à tendance à se transformer en "Oh money come to my home".
+Je regarde les groupes qui marchent. Ils y a ceux qui descendent un peu hébété de fatigue, parfois un demi-sourire de réussite aux lèvres. Il y a des visages fermés et usés, d'autres qui ont trop pris le soleil. L'atmosphère autour d'eux est un peu pesante. Certains sont un peu plus enjoués et plaisantent de leur aventure passée ou à venir. Ceux qui montent sont souvent déjà essoufflés par leur matinée. Quelques uns sont paisibles, beaucoup sur-excités. J'entends des guides conseiller de marcher lentement, raconter des anecdotes sur les premiers sommets, sur la culture tibétaine. L'un me fait rire en expliquant à son client que le mantra " Om Mani Padme Hum" ([mantra de la grande compassion ](https://fr.wikipedia.org/wiki/Om_mani_padme_hum)) à tendance à se transformer en "Oh money come to my home". Le tourisme et l'argent qui amène dénature les rapports humain, c'est normal. Comme dans beaucoup de pays, il y a une forte corruption des élites au Népal. L'argent circule mal et la population profite finalement peu de l'argent du tourisme.
 
 ![Fleurs oranges devant le paysage](J1_fleurs.jpg) ![Pierres peintes de mantras](J1_pierres.jpg)
 
-En milieu d'après midi je rencontre deux soldats du parc qui vont jusqu'à Manjo. Je me décide pour en faire aussi ma destination de la journée. C'est le dernier village avant l'entrée dans le parc national, il est 15h et il reste une heure de marche. Ils sont surpris que je marche seule sans guide et sans porteur. Ils me disent aussi que je suis forte parce que je marche "vite" sans être essoufflée et qu'ils ont presque du mal à me suivre. Je leur répond que je ne porte que 6 kgs alors qu'ils en ont 10 sur le dos. Nous rigolons. La communication est une succession de petites phrases et de mimes pour essayer de se faire comprendre. Il me disent combien je dois payer pour l'entrée du parc. Ils demandent combien j'ai payé pour venir en voiture à Surke. Il s'avère que j'ai payé le même prix qu'eux, je suis donc à leurs yeux une bonne négociante et une débrouillarde. Ça me fait plaisir.  
+En milieu d'après midi je rencontre deux soldats du parc qui vont jusqu'à Manjo. Je décide d'en faire aussi ma destination de la journée. C'est le dernier village avant l'entrée dans le parc national, il est 15h et il reste une heure de marche. Ils sont surpris que je marche seule sans guide et sans porteur. Ils me disent aussi que je suis forte parce que je marche "vite" sans être essoufflée et qu'ils ont presque du mal à me suivre. Je leur répond que je ne porte que 6 kgs alors qu'ils en ont 10 sur le dos. Nous rigolons. La communication est une succession de petites phrases et de mimes pour essayer de se faire comprendre. Il me disent combien je dois payer pour l'entrée du parc. Ils demandent combien j'ai payé pour venir en voiture à Surke. Il s'avère que j'ai payé le même prix qu'eux, je suis donc à leurs yeux une bonne négociante et une débrouillarde. Ça me fait plaisir.  
 
-Nous rencontrons encore des enfants qui vendent des fleurs. À ma surprise, ils en vendent aux soldats qui en achètent. Je fais de même. Les soldats m'expliquent que c'est une fleur qui donne du "power". Je commence à comprendre que c'est un échange d'offrande. De l'argent contre une fleur sacrée prise des mains d'un enfant et que l'on pourra offrir selon son cœur. Malgré mon envie de ne pas faire du suppositions, je m'étais demandé s'il s'agissait pas d'une petite mendicité déguisée : des enfants "vendant" des fleurs aux touristes. J'aime d'autant plus cette petite leçon de vie qui rappelle de ne pas se filer aux apparences et faire de suppositions hâtives. D'autant plus pour juger la culture d'un pays qui n'est pas le sien. Les soldats m'expliquent comme ils peuvent. Les offrandes sont liées à une fête majeure [Divali](https://fr.wikipedia.org/wiki/Divali). Nous mettons tous les 3 notre petite fleur orange sur notre oreille et nous continuons notre route.
+Nous rencontrons encore des enfants qui vendent des fleurs. À ma surprise, ils en vendent aux soldats qui en achètent. Je fais de même. Les soldats m'expliquent que c'est une fleur qui donne du "power". Je commence à comprendre que c'est un échange d'offrande. De l'argent contre une fleur sacrée prise des mains d'un enfant et que l'on pourra offrir selon son cœur. Malgré mon envie de ne pas faire du suppositions, je m'étais demandé s'il s'agissait pas d'une petite mendicité déguisée : des enfants "vendant" des fleurs aux touristes. J'aime d'autant plus cette petite leçon de vie qui rappelle de ne pas se filer aux apparences et faire de suppositions hâtives. D'autant plus pour juger la culture d'un pays qui n'est pas le sien. Les soldats m'expliquent comme ils peuvent. Les offrandes sont liées à une fête majeure : [Divali](https://fr.wikipedia.org/wiki/Divali). Nous mettons tous les 3 notre petite fleur orange sur notre oreille et nous continuons notre route.
 
-Je laisse mes deux amis d'une après midi au début de Manjo et j'entre dans le premier lodge qui m'attire. Je me fais plaisir avec une chambre luxueuse : matelas sur une planche avec une prise électrique au mur et une douche chaude! Je prends un temps pour essayer d'imaginer la suite de mon itinéraire. Je ne souhaite pas planifier mais je dois m'assurer tout de même de pouvoir revenir à temps pour ne pas rater mon vol pour la France. Grâce à une guide je peux avoir une place dans un avion pour faire Lulka - Katmandou au retour, et ainsi transformer mes 16h de jeep en 45 minutes de vol. Cela me permettrait de gagner du temps et rester plus longtemps en montagne.
+À l'entrée de Manjo je laisse mes deux amis d'une après midi. J'entre dans le premier lodge qui m'attire. Je me fais plaisir avec une chambre luxueuse : matelas sur une planche avec une prise électrique au mur et une douche chaude (la seule du voyage). Je prends un temps pour essayer d'imaginer la suite de mon itinéraire. Je ne souhaite pas planifier mais je dois m'assurer de pouvoir revenir à temps pour ne pas rater mon vol pour la France. Grâce à une guide, je peux avoir une place dans un avion pour faire Lulka - Katmandou au retour, et ainsi transformer mes 16h de jeep en 45 minutes de vol. Cela me permettrait de gagner du temps et rester plus longtemps en montagne.
 
-Je passe une partie de ma soirée à discuter avec une équipe de 5 indiens partis entre amis. L'un d'eux est leur "leader", le plus expérimenté en montagne et donc l'organisateur de leur expédition de vacances. Ils n'ont pas de guide non plus, juste un porteur pour celui d'entre eux qui n'a pas l'habitude de la montagne. Je discute aussi avec un guide un peu antipathique qui essaye de me faire peur parce que je marche toute seule : je pourrais me perdre ou rencontrer des bêtes sauvages. J'écoute ses "conseils" et lui dit au revoir en rigolant. Je comprends vite que certains guides essayent de décourager les touristes seuls pour les inciter à recourir à leurs services. En échangeant avec le propriétaire du lodge le discours et tout autre. Je lui demande conseil sur mon idée d'itinéraire pour le lendemain : partir faire le pic de Khunde (4200 m) à une dizaine de kilomètres puis descendre dormir dans un des villages lodges un peu plus bas. Il me dit que c'est faisable et que je peux me faire confiance.
+Je passe une partie de ma soirée à discuter avec une équipe de 5 indiens partis entre amis. L'un d'eux est leur "leader", le plus expérimenté en montagne et donc l'organisateur de leur expédition de vacances. Ils n'ont pas de guide non plus, juste un porteur pour celui d'entre eux qui n'a pas l'habitude de la montagne. Je discute aussi avec un guide un peu antipathique qui essaye de me faire peur parce que je marche toute seule : je pourrais me perdre ou rencontrer des bêtes sauvages. J'écoute ses "conseils" et lui dit au revoir en rigolant. Je comprends vite que certains guides essayent de décourager les touristes seuls pour les inciter à recourir à leurs services. En échangeant avec le propriétaire du lodge le discours est tout autre. Je lui demande conseil sur mon idée d'itinéraire pour le lendemain : partir faire le pic de Khunde (4200 m) à une dizaine de kilomètres puis descendre dormir dans un des villages lodges un peu plus bas. Il me dit que c'est faisable et que je peux me faire confiance.
 
 _Lodge à Manjo : chambre (potentiellement à partager) 500 rps avec eau chaude, sinon 250 rps; plats autour de 500 rps_
 
@@ -134,7 +134,7 @@ Le ciel est magnifique, la montagne est belle. Il y a tellement d'énergie dans 
 
 Je crapahute avec mes sandales : cela interpelle ou fait rire, selon la mentalité des personnes que je croise. Un monsieur m'appelle même "le petit bouddha bleu". Je suis toute de bleue vêtue avec un grand châle rose et orange. Apparemment j'ai l'air d'un moine venu d'une autre dimension. Je prends même des photos avec des norvégiens, j'ai l'impression d'être une petite attraction sur cette montagne. Plusieurs fois je croise une taïwanaise avec un bel imperméable rose : c'est elle qui me prendra en photo au sommet et même durant la montée.
 
-![Le Cholatse 6440 m et son lac. Tout au fond, devant les cimes blanches, le col que je tenterai demain.](J4_sommet_montée.jpg)
+![Le Cholatse 6440 m et son lac. Tout au fond, devant les cimes blanches, le col que je tenterai au retour.](J4_sommet_montée.jpg)
 
 Je chante "I choose to live in love" en descendant de la montagne. Je n'écoute pas souvent de la musique en marchant mais pour une fois une petite playlist m'accompagne : [pause](https://open.spotify.com/playlist/2lzGfSDkFSlOFaTHex0Ilm). Arrivée en bas je retrouve le lodge jaune où je me régale de riz fris. Malgré cette expédition à plus de 5000 mètres je n'ai pas mal à la tête. Je reste tout de même un moment à le reposer avant de reprendre ma route.
 
@@ -142,9 +142,14 @@ Je ne pensais pas que mon après midi allait être aussi magnifique que ma matin
 
 ![Un yak dans la vallée](J4_yak.jpg) ![Le Tawesche 6542 m et à droite le Cholatse](J4_sans_yak.jpg)
 
+L'après midi avance tout doucement et j'arrive finalement dans le minuscule village de Thulka. Il n'y a que 2 lodge, je tente le Yak Lodge où l'on me propose une chambre gratuite que j'accepte avec plaisir. Je déguste une soupe à l'ail en faisant la rencontre deux belges. Encore une fois nous discutons des plaisirs de la montagne. Eux aussi ont médité sur les pentes de NangkartShang qu'ils ont gravi hier. Mes nouveaux amis d'un soir sont un peu surpris que je en prenne pas de diamox. Ils demandent l'avis de leur guide. Il a un discours très différent de la plupart des guides que j'ai pu rencontrer. Selon lui la confiance en soi, l'intention et la détermination sont la clé en montagne. Associées à une écoute active du corps, elles peuvent nous mener bien plus loin que ce que nous nous pensions capables d’accomplir. Il ajoute que le pire ennemi est le doute. Dans les hauteurs, douter de soi et des ses capacités mène au péril. Il faut être lucide et présent. Je cherche justement à approcher ma confiance en moi. Ce discours résonne et me rend vraiment heureuse.
+
+Je retrouve aussi l'équipe d'indiens de Manjo à ma grande surprise. Nous rigolons de l'étroitesse du monde.
+
 3900 m ↗️ 5070 m ↘️ 4600 m - 15,6 km
 
-## Le camp de base de l'Everest (jour 5)
+## Le camp de base de l'Everest (jour 5)  
+
 
 ## Kala Pathar (jour 6)
 
