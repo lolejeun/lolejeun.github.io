@@ -22,6 +22,13 @@ Je ne vous conseillerai pas de faire les même étapes que moi. J'ai bénéfici�
 - Chaque jour de mon périple j'ai médité le matin et le soir pour demander aux montagnes de me laisser passer et pour les remercier de l'avoir fait.
 - Aussi souvent que ma condition humaine me le permettait, je marchais de manière consciente, écoutant ma respiration et le rythme de mon cœur. Je crois que le yoga comme art de vivre a aussi beaucoup aidé.
 
+<iframe style="width: 100%; height: 450px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
+
+
+[La carte](https://umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true): en bleu les étapes, en rouge les points d'intérêts.
+
+_9 jours, 133 km, 9290 dénivelé positif cumulé._
+
 ## Premier et deuxième jour au Népal : départ de Katmandou
 
 Je pars de Katmandou laissant derrière moi une personne chère. Mon cœur est lourd et léger. Lourd de la clôture d'une relation, du manque et d'une pointe d'appréhension de partir finalement seule; léger de ce magnifique voyage qui me tend les bras, d'un sentiment de justesse que je n'explique pas.
@@ -55,8 +62,6 @@ Chambre vers Salleri 500 rps, possibilité de partager la chambre pour payer la 
 > - lampe frontale, chargeur, téléphone, écouteurs, passeport, un stylo, un bloc note, lunettes de soleil (cat 3)
 > - brosse à dent, dentifrice, un bout de savon, un baume pour les lèvres, beurre de karité, huiles essentielles pour les courbatures
 > - bâtons de marche, quelques snacks, chaussures de trail, sandales de marches (sur-soi)
-
-<iframe style="width: 100%; height: 450px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 
 ## Premier jour de marche : de Surke à Manjo, dans la vallée
 
@@ -117,7 +122,7 @@ C'est la dernière soirée de Divali : les népalais lancent des chants que nous
 
 ## Khumjung à Pangboche : une journée de monastères
 
-Pour ce 3ème jour je ne sais pas où je m'arrêterai. C'est une journée tranquille en perspective. Le matin je reste avec la petite équipe anglaise et ses guides, pleine d'enthousiasme et d'énergie. Je  fini par les laisser à Tengboche, après la visite d'un autre magnifique monastère. J'ai le plaisir de pouvoir y méditer avec Lulu. C'est un moment très doux et très beau.   
+Pour ce 3ème jour je ne sais pas où je m'arrêterai. C'est une journée tranquille en perspective. Le matin je reste avec la petite équipe anglaise et ses guides, pleine d'enthousiasme et d'énergie. Adam lance des ["Tashi Delek"](https://fr.wikipedia.org/wiki/Tashi_delek) à chaque Nepalis que nous croisons. C'est une formule de salutations tibétaine moins connue pour changer un peu du "Namaste". J'aime bien et j'adopte aussi la formule. Je  fini par les laisser à Tengboche, après la visite d'un autre magnifique monastère. J'ai le plaisir de pouvoir y méditer avec Lulu. C'est un moment très doux et très beau.   
 
 ![Les lumières du matin à Khumjung](J3_matin.jpg) ![Arrivée à Tengboche](J3_tengboche.jpg)
 
@@ -192,9 +197,9 @@ Je prends tout de même une pause pour admirer le ciel étoilé. Mes yeux se per
 
 L'obscurité décline peu à peu. Il reste 100 m de dénivelé quand j'arrive à la hauteur de Borge et son guide. Nous faisons la fin de l'ascension ensemble. La joie me saisit en haut du pic : les premières lueurs du jour, la beauté de la montagne, la neige, l'effort physique qui se transforme en exaltation ... Je me trouve un bon gros caillou en hauteur pour admirer la vue. Il est 6h, 1h20 d’ascension. J'avoue avoir une belle montée de fierté. Même si je ne suis pas là pour ça c'est un bel exploit physique à cette altitude. Je suis vite rejointe par Borge sur mon caillou. Il a amené un tout petit drapeau norvégien, ça me fait bien rire. Nous blaguons pour se réchauffer. J'ai le bout des orteils (voir les orteils et les pieds entiers) congelés.
 
-![Postés sur le caillou](J6_la_team.jpg) ![La petite photo devant l'Everest (le deuxième à droite)](J6_Kala_Patthar.jpg)
+![Postés sur le caillou](J6_la_team.jpg) ![La petite photo devant l'Everest (le deuxième à droite)](J6_Kala_Pathar.jpg)
 
-![La vue sur la vallée avec le glacier Khumbu](J6_Kala_Patthar_vue.jpg)
+![La vue sur la vallée avec le glacier Khumbu](J6_Kala_Pathar_vue.jpg)
 
 Le temps passe est nous nous rendons compte que le soleil est derrière l'Everest. Il ne risque pas d'apparaître pour nous avant au moins 8h ... Peut être que l'option Kala Patthar pour le coucher du soleil aurait été meilleure. Au moins le soleil nous aurait réchauffé le temps de sa rencontre avec l'horizon. Vers 6h40, les yeux et le cœur plein, je propose une redescente (surtout pare que j'ai froid). La descente est assez marrante : des zigzags dans la neige, cette fois ci aidée par mes bâtons.
 
@@ -206,30 +211,91 @@ De retour à Buddha Lodge, je récupère mes affaires et je prends ma soupe et m
 
 Je dis un "au revoir et peut-être à bientôt", un de plus, à Borge et je file avec lenteur. Il n'est que 10 heures, et je n'ai "que" 10 kilomètres à faire. J'ai prévu de prendre mon temps. Sur le chemin vers Lobuche je croise Philippe, Rudy et Prakash. Il me demande si j'ai réussi à faire le camp de base et le Kala Patthar. Prakash me dit qu'il avait aucun doute sur ma réussite. Cela me fait vraiment plaisir de les recroisés. Prakash m'explique qu'il y a une autre Lola dans la montagne aujourd'hui : [Lho la](https://fr.wikipedia.org/wiki/Lho_La), un col au sud-est de l'Everest que l'on aperçoit au loin.  
 
-Un premier arrêt à Lobuche pour le repas du midi et un coucou à la tenancière. J'ai du mal à me rendre compte que j'étais là hier. Nous discutons une fois encore de la montagne, des gens et de la vie. Elle me dit qu'il va certainement neiger bientôt. À chaque fois qu'il neige elle encourage les touristes à aller dehors pour jouer dans la neige. Souvent le froid les rebute. ELle trouve ça dommage : c'est pas tous les jours que l'on peut faire une bataille de boules de neige en plein milieu de la montagne !
+Un premier arrêt à Lobuche pour le repas du midi et un coucou à la tenancière. J'ai du mal à me rendre compte que j'étais là hier. Nous discutons une fois encore de la montagne, des gens et de la vie. Elle me dit qu'il va certainement neiger bientôt. À chaque fois qu'il neige elle encourage les touristes à aller dehors pour jouer dans la neige. Souvent le froid les rebute. Elle trouve ça dommage : c'est pas tous les jours que l'on peut faire une bataille de boules de neige en plein milieu de la montagne !
 
 Je ne sais pas si la neige est une bonne nouvelle pour moi (même si j'adore la neige). S'il y a du mauvais temps, aucun avion ne décollera de Lulka et rentrer à Katmandou a temps deviendra assez complexe. J'ai un vol de réservé pour dans 4 jours. Je verrai bien en temps voulu. Je continue à cultiver le lâcher prise : je ne peux pas agir sur ce point alors il n'y a aucune utilité à ce que je me triture la tête. Après le repas et la discussion, je me sens rattrapée par le sommeil. Une petite sieste sur les banquettes pleines de coussins me tend les bras.
 
 ![Le lac de Chola, que l'on voyait déjà de loin il y a 2 jours ](J6_Dzonglha.jpg)
 
+Le suite de la journée est douce, heureusement car je suis bien fatiguée. Je m'arrête plusieurs fois pour lézarder au soleil en face des pic Taboche et Cholatse. Quand j'arrive à Dzonglha il est à peine 15h. Je me trouve une petite chambre sympathique face au soleil et je m'offre une autre petite sieste bien méritée. L'appétit me tire de mon lit et fidèle à mes habitudes je dévore un plat de nouilles aux légumes cuites avec une portion non-négligeable d'huile. Je zone dans la salle commune en griffonnant les rencontres et les étapes de mon parcours.
 
+J'achète une carte sim qui me permettra d'avoir internet en montagne pour 24h (~10€). Demain c'est l'anniversaire de maman et j'ai envie de pouvoir lui envoyer un petit message. En plus je me sens un peu morose et j'ai besoin de me changer les idées avec le bruit des réseaux.
+
+En début de soirée, un petit groupe de français du jura fait son apparition. Nous jouons au Président avec leurs guides népalais. Ça donne l'impression d'être à la maison. Jouer me remonte un peu le moral. J'étais tombé sur un guide durant l'après midi qui m'avait dit que c'était pas une bonne idée de faire le col toute seule, que j'allais me perdre et que c'était une journée d'au moins 8h pour arriver au village de Dragnak en bas du col. Alors que j'avais prévu d'ensuite traverser un glacier et d'aller jusqu'à Gokyo. Le guide a prévu de partir avec son groupe à 5h du matin avant le levé du soleil. J'hésite beaucoup, j'avais en tête de partir plutôt aux aurores mais si la journée est vraiment si longue, peut être faut-il que je change mes plans ?
+
+Les français ont justement passé le col aujourd'hui. Ils me disent qu'il faut vraiment être motivé pour se perdre et qu'ils ont mis un peu moins de 6 h avec une de leur camarade qui n'était pas très bien. Pour le glacier ils me racontent que même leur guide n'était pas sur de la route parce qu'elle change tout le temps. La seule chose à faire c'est de suivre les cairns. Avec la fatigue, le doute continue a m’assaillir. Jamais je n'ai passé un col aussi haut et dans la neige. J'invoque le détachement dans mon esprit : je verrai comment je me sens demain matin et comment est le ciel. Réveil prévu pour 6h.
 
 5150 m ↗️ 5536 m ↘️ 5150 m ↘️ 4820 m - 14,4 km, jour 6
 
-## Chola pass (jour 7)
+## Chola pass : passage du col et marche sur un glacier
+
+Je me réveille pleine d'énergie. Je m'assois dans mon petit lit comme tout les matins pour une courte méditation. Je ferme les yeux, mon châle sur les épaule set je respire doucement: j'invoque le vide, le calme et une sensation de paix et d'amour. Et à haute voix je dis : "Merci pour cette nouvelle journée qui m'attend. Je demande à la montagne de me laisser passer aujourd'hui encore, de m'accueillir et de me soutenir dans chacun de mes pas." Après c'est la technique d'habillage sous la couette parce qu'il doit faire -5°C. Il y a du givre sur les fenêtres à l'intérieur de la chambre.
+
+Soupe de nouilles au petit déjeuner pour bien se réchauffer et pour une bonne hydratation. J'ai du mal à boire mon eau quand je marche le matin. Dans ma gourde elle est glacée et j'ai l'impression que cela refroidit d'un coup tout mon corps.
+
+Le ciel est un peu nuageux mais pas vers le col. Je me sens de nouveau pleine de confiance, prête à gravir la pente un pas après l'autre. Je sors du lodge. L'air est froid. Le soleil est doux. Je vois deux porteurs qui commencent leur périple. Ils vont dans la même direction que moi. Je me décide à les suivre. Avant de rejoindre le col je traverse une longue plaine, tantôt dans l'herbe, les cailloux et bientôt la neige. Il y a des petits ruisseaux de partout. C'est magnifique, plusieurs fois j'ai les larmes au bord des yeux. Je me trempe maladroitement un pied. Heureusement je suis tellement de bonne humeur que ça me fait juste rigoler. Je continue à suivre les porteurs. Y n'y a personne d'autres. Juste le groupe du guide que je dépasse rapidement avant une première ascension.
+
+![La vallée, on aperçoit le groupe de marcheur](J7_début_vallée.jpg) ![La suite de la vallée, vers le col derrière les formations rocheuses](J7_début_vallée_col.jpg)
+
+Avant le col les deux porteurs s'arrêtent, je les dépasse avec un "Tashi Delek" qui me rendent en rigolant. J'apprécie de plus en plus tenter de discuter avec les porteurs. Ils ne parlent souvent pas bien anglais mais on peut toujours échanger un peu. J'ai appris à dire comment je m'appelle et que je viens de France "Mērō nāma Lola hō. Ma phrānsēlī hum̐." Parfois je partage des noix avec eux. C'est chouette. Sans les mots il y a un échange authentique face à la montagne.
+
+![Juste en bas du col](J7_col.jpg) ![Des allemands qui ont campé juste devant le col (je suis admirative)](J7_col_tente.jpg)
+
+J'arrive en haut après 2 h de marche. Je repense au guide qui m'annonçait au moins 4 heures. Je suis pleine de fierté, un peu trop peut être.
+
+![La vue depuis les hauteurs](J7_col_vue.jpg) ![Moi sur le col (pas très impressionnant finalement)](J7_col_moi.jpg)
+
+La descente du col est très technique. Heureusement mes chaussures de trails ont une semelle au rendez vous et je dévale la pente enneigée sans aucune glissade. Les guides conseillent des petits crampons mais avec des bonnes chaussures il ne sont pas utiles. De toute façon il suffit de regarder le matériel des porteurs pour savoir ce qui est vraiment utile ou non. Lorsque j'arrive à Dragnak 2 heures plus tard je suis évidemment affamée.
+
+De ce côté du col le ciel est plus couvert. Je préfère ne pas trop traîner pour être à Gokyo en début d'après midi. Dès la sortie du village la traversée du glacier débute. J'ai adoré ce moment : un vrai petit jeu de piste. Il faut chercher les cairns au loin parmi les creux et les bosses puis estimer le chemin à prendre.
+
+![Le glacier Ngozumpa](J7_glacier.jpg) ![Un des plus long de la région : 36 km](J7_glacier2.jpg)
+
+Une belle pente raide au niveau de la moraine pour sortir du glacier et j'arrive à Gokyo. Ici il y les [lacs](https://fr.wikipedia.org/wiki/Lacs_Gokyo) les plus hauts de monde. Demain j'aimerais me faire un aller retour jusqu'au fond de la vallée pour aller les voir.
+
+![Devant le lac de Gokyo](J7_gokyo.jpg) ![Gokyo Cho, aussi appelé Dudh Pokhari (42,9 ha)](J7_gokyo_lac.jpg)
+
+
+Il est encore loin d'être l'heure du goutter mais une boulangerie me fait de l’œil. C'est assez surprenant, dans quasiment chaque village il y a une sorte de salon de thé boulangerie avec plein de pâtisseries. Enfin non, c'est pas surprenant, c'est un très bon business, n'importe quel touriste en montagne - dont moi - craquerait pour une grosse part de gâteau et un chocolat chaud. Je suis plutôt sur un combo cinnamon roll et gros cappuccino.
+
+Je me rend dans un lodge juste devant le lac, qu'un groupe de polonais m'a recommandé. Apparemment demain il va neiger. Le brouillard a commencé à envahir les lieux et on ne voit même plus le lac à la fenêtre. Hors de question de ressortir aujourd'hui pour se faire un petit sommet bonus (Gokyo Ri, 5357 m) que j'avais dans le viseur. Je passe plutôt ma fin d'après midi avec Arlette une française qui profite de sa retraite en allant randonner. Un peu d'inquiétude tout de même, son mari Bertrand ne va pas bien suite à ascension du Gokyo Ri ce matin. La mesure à l'oxymètre donne 60%, il n'est pas en danger immédiat mais c'est vraiment limite. Au dessus de 80% on considère que tout va bien. Par mesure de précaution elle va l’emmener à la clinique du village où il y a une réserve de bouteille d'oxygène.  
 
 4820 m ↗️ 5356 m ↘️ 4769 m - 12,3 km, jour 7
 
-## Descente de Gokyo dans la neige (jour 8)
+## Descente de Gokyo dans la neige
+
+Lorsque je me réveille je ne me rend pas compte qu'il neige abondamment. C'est tellement blanc à l'extérieur que je ne distingue pas tout de suite les petits flocons dans l'air. Dans la salle commune règne une effervescence chaotique. Avec la neige les plans de chacun sont bouleversés : impossible de passer le glacier Ngozumpa, le col de ChoLa est fermé et celui de Renjo La au dessus du lac n'est pas conseillé. De même pour moi, je ne vais pas aller crapahuter au fond de la vallée sous la neige pour ne rien voir des lacs. Reste l'option de descendre un jour plus tôt. Cela ne semble le plus approprié. D'après les locaux il va neiger au moins 3 jours. Nous sommes le 28 octobre et mon avion pour la France est le 2 novembre au matin. J'ai un avion de prévu entre Lulka et Katmandou le 31 mais il sera certainement annulé. D'ailleurs aujourd'hui aucun vol de prévu ni en avion ni en hélicoptère. Je recroise Arlette et son mari qui va mieux grâce à l'oxygène. je suis soulagée pour eux. Ils vont pouvoir descendre un peu dans la vallée aujourd'hui.
+
+La tenancière me dit qu'il n'y a pas de problème pour descendre : la piste longe quelques lacs et suit la rivière en ligne droite. Comme je n'ai pas de guide le mieux et de suivre un groupe de Népalais. Trois indiens ont la même idée en tête et nous nous mettons d'accord pour descendre ensemble. Un peu avant 8 h la tenancière nous indique un groupe au bord du lac qui vient de partir : branle bas de combat pour s'équiper et sortir sous la neige.
+
+![Le début du périple, Gokyo au fond, mes amis d'un jour suivant la trace](J8_gokyo_neige.jpg)
+
+Je marche avec un rythme soutenu. Le groupe doit être 15 minutes devant nous mais il neige tellement qu'une pellicule de neige fraîche recouvre déjà la trace heureusement profonde. Les indiens suivent avec un peu de mal et vite nous sommes rejoint par un couple de français.
+
+![Devant le lac de Gokyo](J8_gokyo_moi.jpg)![Les yaks dans la neige](J8_gokyo_yaks.jpg)
+
+De l'autre côté du lac nous retrouvons le groupe de Népalais sous un abri. Ils prennent une pause et nous disent que c'est à notre tour maintenant de marcher devant et de faire la trace. Emma et son copain (j'ai malheureusement oublié son nom) se prêtent au jeu et je les accompagne. Ils sont gardiens de refuge dans les Alpes et faire la trace dans la neige n'est pas un soucis pour eux. Très vite nous nous retrouvons tous les trois au milieu de la neige à s'inventer un chemin le long de la rivière. Des chiens qui étaient avec le groupe de Népalis nous suivent en sautant dans la neige. Eux aussi ont l'air de s'amuser.
+
+La neige est poudreuse et légère. Un peu avant Macchermo, au bout de 6 kilomètres, nous retrouvons une piste plus grande qui vient du versant opposé. J'ai l'impression de revenir d'un coup à la civilisation en croisant d'autres personnes. Il y a un peu moins de neige qu'à Gokyo, environ 15 cm, peut être 20. Une petite pause chocolat chaud et la descente continue. 6 kilomètres de plus et nous arrivons à Dhole pour un autre chocolat chaud. Ici la neige devient de plus en plus boueuse. Cela rend tout de suite la marche beaucoup moins agréable. Nous sommes sortis des nuages et au loin on peut deviner les versants de montagnes.
+
+![](J8_descente.jpg)![](J8_descente2.jpg)
+
+![](J8_phortse_loin.jpg)![](J8_stuppa.jpg)
+
+Maintenantla neige c'est transformée en pluie. En face de Phorste, je laisse le couple de français. Je ne sais pas trop pourquoi, nous avions pourtant prévu de jouer aux cartes ce soir. Peut être l'envie d'être seule? L'atmosphère du lieu où ils se sont arrêtés? Je poursuis ma route encore un peu. Peut être jusque Mongla ? Quelques rencontres sur le chemin me pousse à aller encore plus loin : "Mongla c'est pas terrible, tu peux aller jusque Kyangjuma, il y a une super boulangerie !". Finalement je m'arrête à Sanasa, 1 kilomètre avant. De ce petit village part un embranchement qui permet de remonter sur le plateau de Khumjung. J'ai envie de retourner au monastère avant de sortir des montagnes. Peut être un peu pour faire une sorte de boucle.
+
+Dans la salle commune c'est l'opération étendoir. Chaussures, chaussettes, gants, veste de pluie, pantalon, tout est plutôt humide voir carrément mouillé. Après une journée de marche dans la neige et la flotte c'est cohérent. Avec moi une petite troupe de canadiens que j'avais croisé aussi à Gorak Shap. Ils sont exténués et pas très très loquasses. Petite soirée yoga, méditation et étirements en solitaire.
 
 4769 m ↘️ 3580 m - 19 km, jour 8
 
-## Retrouvailles avec la terre déjà foulée (jour 9)
+## Retrouvailles avec la terre déjà foulée : Khumjung jusqu'à Lulka
 
 3580 m ↘️ 2857 m - 22,8 km, jour 9
 
 ## La chaotique retour à Kathmandou (jour 10, 11 et 12)
 
 
-
-Merci a toutes les âmes vibrantes que j'ai croisées, merci pour tout les sourires, merci aux montagnes, merci pour ce présent.
+## Dans la montagne on n'est jamais seule 🌸
+Déjà parce qu'il y a la montagne, ses torrents, ses ruisseaux, ses pierres qui roulent partout; ensuite parce que c'est des rencontres éphémères, des retrouvailles inattendues d'un jour a l'autre, des prises de nouvelles, des encouragements.
+Merci à toutes ces petites âmes vibrantes qui ont croisé mon chemin, je ne pourrai les nommer toutes mais je pense à : Talita (avec qui je n'ai pas de photos malheureusement), cette jolie taïwanaise au Kway rose; Philippe et Rudy les belges déterminés; Adam, Kev et Lulu les anglais adorables avec qui j'ai tant échangé, des norvégiens étonnés de mon rythme que j'ai recroisé plusieurs fois, ma super team d'indiens que j'ai retrouvé au moins 4 fois sur mon périple, Borge avec qui j'ai partagé le Kala Pathar et une bière à Lukla, des soldats du parc qui m'ont tout expliqué sur le permis et le parc, Arlette toute pétillante et au petit soin pour son mari Bertrand qui est tombé malade, une team de Français que j'ai croisé à deux reprises et on s'est reconnu; Santos le camionneur qui conduisait comme un king son camion dans la nuit sur les routes effondrées; tous les Nepali, notamment les porteurs avec qui j'ai rigolé en essayant de discuter : tashi delek !
+Merci pour tous les sourires, merci aux montagnes, merci pour ce présent.
