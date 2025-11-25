@@ -2,7 +2,7 @@
 author: "Leau'là"
 title: "Népal : dans la région de l'Everest - la confiance en soi"
 date: 2025-11-10
-draft: true
+#draft: true
 description: "Baroudage en solitaire dans la région de l'Everest : Le camp de base, Kala Patthar, Gokyo et Chola pass. Une parenthèse de voyage intérieur et extérieur à la lumière d'une flamme nouvelle : la confiance en soi. Récit de voyage pour donner l'envie de bouger ses lignes. Un souhait de résonance : qu'à travers les pas de tous, chacun puisse trouver sa route. "
 categories: [
     "Voyage"
