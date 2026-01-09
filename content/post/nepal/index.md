@@ -361,3 +361,6 @@ Merci à toutes ces petites âmes vibrantes qui ont croisé mon chemin, je ne po
 ![](R5.jpg)![](R6.jpg)![](R7.jpg)![](R8.jpg)
 
 Merci pour tous les sourires, merci aux montagnes, merci pour ce présent.
+
+Est ce que ce voyage à réellement changé quelque chose en moi? Oui, d'une certaine façon. Il m'a permis de poser et d’intérioriser des principes : la gratitude et la foi.
+Ne plus seulement penser et dire mais incarner. À marcher seul en montagne, on se retrouve confronté à soi : face aux peurs, l'esprit potentiellement à la merci de 1000 scénarios dramatiques. La pratique journalière d'une forme de gratitude et d'une confiance en soi permet de dissoudre ces doutes et ces peurs. Chaque jour de pèlerinage est une nouvelle preuve : c'est possible de se laisser porter, de se reconnecter à son instinct, d'être dans la présence.
