@@ -13,6 +13,11 @@ tags: [
     "Spiritualité"
 ]
 image: "khunde_peak_PANO.jpg"
+
+#![](R1.jpg)![](R2.jpg)![](R3.jpg)![](R4.jpg)
+
+#![](R5.jpg)![](R6.jpg)![](R7.jpg)![](R8.jpg)
+
 ---
 
 Je ne vous conseillerai pas de faire les mêmes étapes que moi. J'ai bénéficié d'une acclimatation à l'altitude plutôt extraordinaire que je ne peux expliquer que par les raisons suivantes :
@@ -356,15 +361,11 @@ Déjà parce qu'il y a la montagne, ses torrents, ses ruisseaux, ses pierres qui
 Merci à toutes ces petites âmes vibrantes qui ont croisé mon chemin, je ne pourrai les nommer toutes mais je pense à : Talita (avec qui je n'ai pas de photos malheureusement), cette jolie taïwanaise au Kway rose ; Philippe et Rudy les belges déterminés ; Adam, Kev et Lulu les anglais adorables avec qui j'ai tant échangé, des norvégiens étonnés de mon rythme que j'ai recroisé plusieurs fois, ma super team d'indiens que j'ai retrouvés au moins 4 fois sur mon périple, Borge avec qui j'ai partagé le Kala Pathar et une bière à Lukla, des soldats du parc qui m'ont tout expliqué sur le permis et le parc, Arlette toute pétillante et au petit soin pour son mari Bertrand; Emma et Erwan avec qui j'ai tracé dans la neige; une team de Français que j'ai croisé à deux reprises et on s'est reconnu ; Santos le camionneur qui conduisait comme un king dans la nuit sur les routes effondrées ; tous les Nepali, notamment les porteurs avec qui j'ai rigolé en essayant de discuter : tashi delek !
 
 
-![](R1.jpg)![](R2.jpg)![](R3.jpg)![](R4.jpg)
-
-![](R5.jpg)![](R6.jpg)![](R7.jpg)![](R8.jpg)
-
 Merci pour tous les sourires, merci aux montagnes, merci pour ce présent.
 
 _Est ce que ce voyage à réellement changé quelque chose en moi?_
 
 _Oui, d'une certaine façon. Il m'a permis de poser et d’intérioriser des principes : la gratitude et la foi.
-Ne plus seulement penser et dire mais incarner. À marcher seul en montagne, on se retrouve confronté à soi : face à nos peurs, l'esprit potentiellement à la merci de 1000 scénarios dramatiques. La pratique journalière d'une forme de gratitude et d'une confiance en soi m'a permis de dissoudre ces doutes et ces peurs. De me faire dire que j'étais réellement capable. Que je méritais vraiment de me faire confiance, que je pouvais le faire. Que je pouvais être mon propre guide et mener la vie par moi même avec mon propre gouvernail. Suivre les courants avec ma propre boussole._
+Ne plus seulement penser et dire, mais incarner. À marcher seule en montagne, on se retrouve confronté à soi. Chaque jour j'avais un objectif flou. Les destinations n'étaient pas prévues à l'avance. L'itinéraire non tracé. Chaque soir je pouvais m'arrêter où je souhaitais. Je devais choisir chaque jour, chaque pas. La pratique journalière de la gratitude m'a permis de m'ancrer dans la présence. De me faire dire que j'étais réellement capable. Que je méritais vraiment de me faire confiance, que je pouvais le faire. Que je pouvais être mon propre guide et mener ma vie avec mon propre gouvernail. Suivre les courants avec ma propre boussole. Dans ces montagnes j'ai ancré profondément ma confiance en moi. Maintenant, il me faut continuer à l'alimenter chaque jour pour ne plus jamais l'éteindre._
 
-_Chaque jour de pèlerinage est une nouvelle preuve : c'est possible de se laisser porter, de se reconnecter à son instinct, d'être dans la présence._
+_Le pèlerinage apporte une preuve : il est possible de se laisser porter, de se reconnecter à son instinct, d'être dans la présence._

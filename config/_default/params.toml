@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "favicon.png"
+favicon = "img/favicon.png"
 
 [footer]
 since = 2018
@@ -16,11 +16,8 @@ lastUpdated = "Mon Jan 2 15:04:05 MST 2006"
 [sidebar]
 emoji = "🌊"
 subtitle = "Méditer chaque jour 🧘‍♀️ Marcher, Oser, Contempler🎐 Vivre, Aimer, Partager ✨"
+avatar = "img/profileMINI2.jpg"
 
-[sidebar.avatar]
-enabled = true
-local = true
-src = "/img/profileMINI2.jpg"
 
 [article]
 headingAnchor = false
