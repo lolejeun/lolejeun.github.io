@@ -20,7 +20,7 @@ image: "chaos_couv.jpg"
 
 Il y a un schéma commun dans les dystopies, un schéma à la mélodie simple.
 
-Des sociétés où l’ordre a pris le pas sur les libertés de chacun pour la sécurité et le bien de tous. Des empires où l’équilibre entre liberté individuelle et organisation commune est tombée dans l’extrême extrême. Extrême extrême à nos yeux d’aujourd’hui, d’ici où nous avons encore l’habitude de jouir de libertés consenties et choisies: libertés bien relatives à l’époque et au lieu. _Liberté de choisir sa marque de shampoing - douce ironie - non de traverser les frontières comme le vent._  
+Des sociétés où l’ordre a pris le pas sur les libertés de chacun pour la sécurité et le bien de tous. Des empires où l’équilibre entre liberté individuelle et organisation commune est tombée dans l’extrême extrême. Extrême extrême à nos yeux aujourd’hui, d’ici où nous avons encore l’habitude de jouir de libertés consenties et choisies: libertés bien relatives à l’époque et au lieu. _Liberté de choisir sa marque de shampoing - douce ironie - non de traverser les frontières comme le vent._  
 
 Orwell – 1984, Huxley – Le Meilleur des Mondes, Damasio - La Zone du Dehors, Zamiatine – Nous. État unitaire aux tours de verre, cube géométrique où tout est vu, le meilleur des mondes par contrôle assidu. La liberté vendue à la monarchie des codes, processus, règles.
 
