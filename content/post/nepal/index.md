@@ -13,11 +13,6 @@ tags: [
     "Spiritualité"
 ]
 image: "khunde_peak_PANO.jpg"
-
-#![](R1.jpg)![](R2.jpg)![](R3.jpg)![](R4.jpg)
-
-#![](R5.jpg)![](R6.jpg)![](R7.jpg)![](R8.jpg)
-
 ---
 
 Je ne vous conseillerai pas de faire les mêmes étapes que moi. J'ai bénéficié d'une acclimatation à l'altitude plutôt extraordinaire que je ne peux expliquer que par les raisons suivantes :
@@ -360,6 +355,10 @@ Déjà parce qu'il y a la montagne, ses torrents, ses ruisseaux, ses pierres qui
 
 Merci à toutes ces petites âmes vibrantes qui ont croisé mon chemin, je ne pourrai les nommer toutes mais je pense à : Talita (avec qui je n'ai pas de photos malheureusement), cette jolie taïwanaise au Kway rose ; Philippe et Rudy les belges déterminés ; Adam, Kev et Lulu les anglais adorables avec qui j'ai tant échangé, des norvégiens étonnés de mon rythme que j'ai recroisé plusieurs fois, ma super team d'indiens que j'ai retrouvés au moins 4 fois sur mon périple, Borge avec qui j'ai partagé le Kala Pathar et une bière à Lukla, des soldats du parc qui m'ont tout expliqué sur le permis et le parc, Arlette toute pétillante et au petit soin pour son mari Bertrand; Emma et Erwan avec qui j'ai tracé dans la neige; une team de Français que j'ai croisé à deux reprises et on s'est reconnu ; Santos le camionneur qui conduisait comme un king dans la nuit sur les routes effondrées ; tous les Nepali, notamment les porteurs avec qui j'ai rigolé en essayant de discuter : tashi delek !
 
+
+![](R1.jpg)![](R2.jpg)![](R3.jpg)![](R4.jpg)
+
+![](R5.jpg)![](R6.jpg)![](R7.jpg)![](R8.jpg)
 
 Merci pour tous les sourires, merci aux montagnes, merci pour ce présent.
 
