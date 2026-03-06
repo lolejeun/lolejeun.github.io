@@ -13,15 +13,13 @@ tags: [
     "Spiritualité"
 ]
 image: "khunde_peak_PANO.jpg"
+#<iframe style="width: 100%; height: 450px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 ---
 
 Je ne vous conseillerai pas de faire les mêmes étapes que moi. J'ai bénéficié d'une acclimatation à l'altitude plutôt extraordinaire que je ne peux expliquer que par les raisons suivantes :
 - Les jours précédents le trek, je parlais à mon corps pour lui dire que nous allions monter très haut. Que ça allait être magnifique, mais dur, qu'il fallait se préparer. Une sorte de visualisation. C'est Emma, une rencontre sur le chemin qui m'a donné ce mot qui est très juste. (Je connaissais le concept, je n'avais pas fait le lien). Je ne pourrais pas dire pourquoi, mais je savais intimement que l'altitude ne serait pas un problème.
 - Chaque jour de mon périple, j'ai médité le matin et le soir pour demander aux montagnes de me laisser passer et pour les remercier de l'avoir fait. Pourquoi pas ?
 - Aussi souvent que ma condition humaine me le permettait, je marchais de manière consciente, écoutant ma respiration et le rythme de mon cœur. Je crois que le yoga comme art de vivre a aussi beaucoup aidé.
-
-<iframe style="width: 100%; height: 450px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
-
 
 [La carte](https://umap.openstreetmap.fr/en/map/trek-nepal-region-de-leverest_1319969?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true): en bleu les étapes, en rouge les points d'intérêts.
 
