@@ -11,7 +11,7 @@ customText = "Habiter la joie"
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Mon Jan 2 15:04:05 MST 2006"
-timeZone = "Europe/Paris"
+#timeZone = "Europe/Paris"
 
 [sidebar]
 emoji = "🌊"
